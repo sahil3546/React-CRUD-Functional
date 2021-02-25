@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "firstName": "Aash ",
+      "lastName": "Arora",
+      "username": "aash007",
+      "email": "aash@gmail.com",
+      "phone": "1478523695",
+      "profession": "Sales Manager",
+      "review": "Great Work !!",
+      "id": 2
+    },
+    {
+      "firstName": "Rahul ",
+      "lastName": "Sharma",
+      "username": "rahul007",
+      "email": "Rahul@gmail.com",
+      "phone": "1478523695",
+      "profession": "Sales Manager",
+      "review": "Great Work !!",
+      "id": 3
+    },
+    {
+      "firstName": "Akash",
+      "lastName": "Chopra",
+      "username": "aka748",
+      "email": "akash@gmail.com",
+      "phone": "1478523695",
+      "profession": "Technical Lead",
+      "review": "Great Work !!",
+      "id": 4
+    },
+    {
+      "firstName": "Sahil ",
+      "lastName": "Sharma",
+      "username": "sasharma",
+      "email": "sahilsharma@qasource.com",
+      "phone": "07837374939",
+      "profession": "Web Developer",
+      "review": "Great Work !!",
+      "id": 5
+    },
+    {
+      "firstName": "Ankur",
+      "lastName": "Sharma",
+      "username": "ankursh",
+      "email": "ankur145@gmail.com",
+      "phone": "07837374939",
+      "profession": "Sales Manager",
+      "review": "Hello World",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
